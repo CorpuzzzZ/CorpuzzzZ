@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Winson and I'm a BSIT student, from The University of Mindanao</p>
+<p align="left">My name is Winsons and I'm a BSIT student, from The University of Mindanao</p>
 
 ###
 
